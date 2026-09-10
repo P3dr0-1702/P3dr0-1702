@@ -14,9 +14,7 @@
 <b></b>
 
 
-Future Greatest Programmer
-
-Currently studying my skills at 42 Lisboa, where I spend my days mastering C, C++, and the ancient art of debugging code that was working five minutes ago.
+Currently studying at 42 Lisboa, following the old curriculum with a focus on C/C++.
 
 I'm into Systems Programming and Cybersecurity, because apparently normal problems aren't difficult enough.
 
@@ -34,11 +32,6 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <td height="30"></td>
 </tr>
 
-<tr>
-
-<td>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d2d,100:111111&height=70&section=header&text=42%20Profile&fontSize=28&fontColor=ffffff&fontAlignY=50"/>
 <table width="900">
 <tr>
 <!-- LEFT COLUMN -->
@@ -69,6 +62,47 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <td align="left">Portuguese • English</td>
 </tr>
 </table>
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <a href="https://cplusplus.com/reference/clibrary/">
+    <img src="https://skillicons.dev/icons?i=c" alt="Skills Icons" />
+  </a>
+  <a href="https://cplusplus.com/reference/">
+    <img src="icons/CPP.svg" alt="Skills Icons" />
+  </a>
+<!--
+<a href="https://www.w3schools.com/cs/cs_intro.php">
+    <img src="https://skillicons.dev/icons?i=cs" alt="Skills Icons" />
+  </a>
+-->
+<a href="https://www.geeksforgeeks.org/linux-unix/bash-scripting-introduction-to-bash-and-bash-scripting/">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Skills Icons" />
+  </a>
+<!-- <a href="https://www.w3schools.com/html/">
+    <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
+  </a> -->
+<!--
+<a href="https://docs.godotengine.org/en/stable/community/tutorials.html">
+    <img src="https://skillicons.dev/icons?i=godot" alt="Skills Icons" />
+  </a>
+<p> -->
+	
+<h3 align="center">Tools</h3>
+<div align="center">
+  <a href="https://git-scm.com/docs/gittutorial">
+    <img src="https://skillicons.dev/icons?i=git" alt="Tools Icons" />
+  </a>
+ <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" alt="Skills Icons" />
+  </a>
+ <a href="https://code.visualstudio.com/docs/introvideos/basics">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills Icons" />
+  </a>
+ <a href="https://lightroom.adobe.com/">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Skills Icons" />
+  </a>
+</div>
 </td>
 <!-- RIGHT COLUMN -->
 <td align="center" width="60%" valign="top">
@@ -160,28 +194,7 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <p></p>
 <b></b>
 
-<div align="center">
 
-<table width="900">
-<tr>
-
-<td align="center" width="58%">
-
-
-<a href="https://profile.intra.42.fr/users/pfreire-">
-<img
-    src="https://badge.mediaplus.ma/darkblue/pfreire-?1337Badge=off&UM6P=off"
-    alt="Pedro's 42 Badge"
-    width="600"
-/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <p></p>
 <b></b>
