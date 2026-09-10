@@ -81,7 +81,7 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
     <img src="icons/Git.svg" alt="Tools Icons" width=15%" />
   </a>
  <a href="https://github.com/">
-    <img src="icons/Github-Dark.svg" alt="Skills Icons" style="max-width: 15%;"/>
+    <img src="icons/Github-Dark.svg" alt="Skills Icons" width=15%"/>
   </a>
  <a href="https://code.visualstudio.com/docs/introvideos/basics">
     <img src="icons/NeoVim-Dark.svg" alt="Skills Icons" width=15% />
@@ -100,24 +100,24 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 </td>
 <td align="center">
 <a href="https://github.com/P3dr0-1702/So_Long">
-<img src="Icons/so_longm.png" width="150">
+<img src="Projects/so_longm.png" width="150">
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/P3dr0-1702/Philosophers">
-<img src="Icons/philosopherse.png" width="150">
+<img src="Projects/philosopherse.png" width="150">
 </a>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://github.com/P3dr0-1702/MiNyanShell">
-<img src="Icons/minishelle.png" width="150">
+<img src="Projects/minishelle.png" width="150">
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/P3dr0-1702/CUB3D">
-<img src="Icons/cub3dm.png" width="150">
+<img src="Projects/cub3dm.png" width="150">
 </a>
 </td>
 <!-- </tr> -->
