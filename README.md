@@ -120,7 +120,6 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <img src="Icons/cub3dm.png" width="150">
 </a>
 </td>
-<td></td>
 <!-- </tr> -->
 <!-- <tr> -->
 <!-- <td align="center">
@@ -133,7 +132,6 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <img src="Icons/ft_transcendencen.png" width="150"> -->
 </a>
 </td>
-<td></td>
 </tr>
 </table>
 </td>
