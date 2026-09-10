@@ -62,7 +62,7 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <td align="left">Portuguese • English</td>
 </tr>
 </table>
-<h3 align="center">Languages</h3>
+<!-- <h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://cplusplus.com/reference/clibrary/">
@@ -71,22 +71,9 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
   <a href="https://cplusplus.com/reference/">
     <img src="icons/CPP.svg" alt="Skills Icons" style="max-width: 15%;"/>
   </a>
-<!--
-<a href="https://www.w3schools.com/cs/cs_intro.php">
-    <img src="https://skillicons.dev/icons?i=cs" alt="Skills Icons" />
-  </a>
--->
 <a href="https://www.geeksforgeeks.org/linux-unix/bash-scripting-introduction-to-bash-and-bash-scripting/">
     <img src="icons/Bash-Dark.svg" alt="Skills Icons" style="max-width: 15%;" />
   </a>
-<!-- <a href="https://www.w3schools.com/html/">
-    <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
-  </a> -->
-<!--
-<a href="https://docs.godotengine.org/en/stable/community/tutorials.html">
-    <img src="https://skillicons.dev/icons?i=godot" alt="Skills Icons" />
-  </a>
-<p> -->
 	
 <h3 align="center">Tools</h3>
 <div align="center">
@@ -97,7 +84,7 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
     <img src="icons/Github-Dark.svg" alt="Skills Icons" style="max-width: 15%;"/>
   </a>
  <a href="https://code.visualstudio.com/docs/introvideos/basics">
-    <img src="icons/NeoVim-Dark.svg" alt="Skills Icons" style="max-width: 15%;" />
+    <img src="icons/NeoVim-Dark.svg" alt="Skills Icons" style="max-width: 15%;" /> -->
 
 </div>
 </td>
