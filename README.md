@@ -66,10 +66,10 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 
 <p align="center">
   <a href="https://cplusplus.com/reference/clibrary/">
-    <img src="https://skillicons.dev/icons?i=c" alt="Skills Icons" />
+    <img src="icons/C.svg" alt="Skills Icons" style="max-width:15%" />
   </a>
   <a href="https://cplusplus.com/reference/">
-    <img src="icons/CPP.svg" alt="Skills Icons" />
+    <img src="icons/CPP.svg" alt="Skills Icons" style="max-width:15%"/>
   </a>
 <!--
 <a href="https://www.w3schools.com/cs/cs_intro.php">
@@ -77,7 +77,7 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
   </a>
 -->
 <a href="https://www.geeksforgeeks.org/linux-unix/bash-scripting-introduction-to-bash-and-bash-scripting/">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Skills Icons" />
+    <img src="icons/Bash-Dark.svg" alt="Skills Icons" style="max-width:15%" />
   </a>
 <!-- <a href="https://www.w3schools.com/html/">
     <img src="https://skillicons.dev/icons?i=html" alt="Skills Icons" />
@@ -91,17 +91,14 @@ When I'm not programming, I'm practicing Taekwondo (if you need to hire security
 <h3 align="center">Tools</h3>
 <div align="center">
   <a href="https://git-scm.com/docs/gittutorial">
-    <img src="https://skillicons.dev/icons?i=git" alt="Tools Icons" />
+    <img src="icons/Git.svg" alt="Tools Icons" style="max-width:15%" />
   </a>
  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="Skills Icons" />
+    <img src="icons/Github-Dark.svg" alt="Skills Icons" style="max-width:15%"/>
   </a>
  <a href="https://code.visualstudio.com/docs/introvideos/basics">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="Skills Icons" />
-  </a>
- <a href="https://lightroom.adobe.com/">
-    <img src="https://skillicons.dev/icons?i=photoshop" alt="Skills Icons" />
-  </a>
+    <img src="icons/NeoVim-Dark.svg" alt="Skills Icons" style="max-width:15%" />
+
 </div>
 </td>
 <!-- RIGHT COLUMN -->
