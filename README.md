@@ -18,7 +18,7 @@ Currently studying at 42 Lisboa, following the old curriculum with a focus on C/
 
 I'm into Systems Programming and Cybersecurity, because apparently normal problems aren't difficult enough.
 
-When I'm not programming, I'm practicing Taekwondo (if you need to hire security too), currently ranked among the Top 100 practitioners in the world (WTF World Ranking) and winner of the Portuguese Sub21 Kyorugi -74kg National Tournament (2026).
+When I'm not programming, I'm practicing Taekwondo (if you need to hire security too), currently ranked among the Top 500 practitioners in the world (WTF World Ranking) and winner of the Portuguese Sub21 Kyorugi -74kg National Tournament (2026).
 
 
 <p></p>
